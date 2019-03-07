@@ -1,3 +1,5 @@
+![haitu](https://user-images.githubusercontent.com/41378186/53953072-775a8980-40f8-11e9-8f8a-787b70309ae5.png)
+
 The Objective of this DApp is to build a Decentralised Banking Dapp running on Rinkeby.
 
 # Functionalities:
