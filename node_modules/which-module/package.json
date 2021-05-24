@@ -37,7 +37,7 @@
     "coveralls": "^2.11.9",
     "nyc": "^6.4.4",
     "standard": "^7.1.2",
-    "standard-version": "^2.3.0"
+    "standard-version": "^8.0.1"
   },
   "files": [
     "index.js"
